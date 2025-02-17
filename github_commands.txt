@@ -41,6 +41,8 @@ To install git:
 MAC:
 xcode-select --install
 
+To initialise git:
+got innit
 
 
 
