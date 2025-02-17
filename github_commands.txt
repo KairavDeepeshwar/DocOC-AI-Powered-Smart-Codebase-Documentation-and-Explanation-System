@@ -1,0 +1,49 @@
+Virtual Environment
+to create virtual env -> python -m venv venv
+
+
+To Activate A Virtual Env
+MAC:
+source venv/bin/activate
+
+WINDOWS:
+venv\Scripts\activate
+
+
+To Install Requirements File:
+
+pip install -r requirements.txt
+
+
+Creating Remote Repo:
+
+Cloning:
+git clone https://github.com/username/MAKEATHON-DEV.git
+
+Add all files to staging(Buffer):
+git add .
+
+Commit:
+git commit -m "The Information Related To Your Commit"
+
+Push:
+Setting Branch(Optional):
+git branch -M main         ->main is the branch name
+
+git push -u origin main
+
+
+To Pull Updates:
+git pull origin main
+
+
+To install git:
+MAC:
+xcode-select --install
+
+
+
+
+
+
+
