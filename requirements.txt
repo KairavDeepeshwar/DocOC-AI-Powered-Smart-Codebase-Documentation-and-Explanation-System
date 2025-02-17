@@ -4,4 +4,10 @@ scikit-learn
 tensorflow
 ipykernel
 ipywidgets
-
+fastapi 
+uvicorn 
+langchain 
+deepseek 
+openai 
+redis 
+tree-sitter
