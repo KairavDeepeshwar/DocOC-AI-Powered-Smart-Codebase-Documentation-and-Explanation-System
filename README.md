@@ -1,4 +1,4 @@
-# Smart Documentation & Code Explanation
+# DocOC - Smart Documentation & Code Explanation
 
 An AI-powered system that automatically generates clear, detailed documentation and code explanations from existing codebases, making technical details more accessible to developers of all skill levels.
 
